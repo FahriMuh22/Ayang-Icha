@@ -1,7 +1,7 @@
 # HTML-CSS-ulang-tahun
 Selamat Ulang tahun
 
-Demo 
+<!DOCTYPE html>
 <html lang="en">
   <!-- 
   Selamat 1 Tahunnya ya Sayang, gak begitu berasa ya seiring waktu berjalan tau-taunya kita udah setahun hehehe.. suka duka sering sekali
@@ -88,5 +88,3 @@ Demo
     </script><p class="cr"></p>
   </body>
 </html>
-boo.html…]()
-
